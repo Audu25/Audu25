@@ -74,4 +74,4 @@ AWS RDS PostgreSQL provisioning with Python and Boto3, with CRUD operations via 
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abednego-audu/)
-[![Email](https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:auduabednego@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:auduabednego997@gmail.com)
