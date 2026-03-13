@@ -1,8 +1,8 @@
 # Hi, I'm Abednego Audu 👋
 
-**DevOps Engineer** based in the United Kingdom, focused on building reliable and scalable cloud platforms. I work across the full infrastructure lifecycle — from provisioning AWS environments with Terraform to deploying containerised services on Kubernetes, building CI/CD pipelines, and implementing observability that actually tells you something useful.
+**DevOps Engineer** based in the United Kingdom, focused on building reliable and scalable cloud platforms. I work across the full infrastructure lifecycle from provisioning AWS environments with Terraform to deploying containerised services on Kubernetes, building CI/CD pipelines, and implementing observability that actually tells you something useful.
 
-I also serve as an **incident commander** — leading live response sessions, coordinating fixes under pressure, and running postmortems focused on root cause analysis rather than blame.
+I also serve as an **incident commander** leading live response sessions, coordinating fixes under pressure, and running postmortems focused on root cause analysis rather than blame.
 
 ---
 
