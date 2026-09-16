@@ -1,4 +1,4 @@
-# Hi, I'm Abednego Audu Ufedo 👋
+# Hi, I'm Ufedo Audu 👋
 
 **Platform Engineer** based in the United Kingdom, focused on building reliable and scalable cloud platforms. I work across the full infrastructure lifecycle from provisioning AWS environments with Terraform to deploying containerised services on Kubernetes, building CI/CD pipelines, and implementing observability that actually tells you something useful.
 
